@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\Negocio.Paralilismo.exe
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\ParalelismoAlejo.exe
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\ParalelismoAlejo.deps.json
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\ParalelismoAlejo.runtimeconfig.json
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\ParalelismoAlejo.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\ParalelismoAlejo.dll
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\ParalelismoAlejo.pdb
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\Negocio.Paralilismo.dll
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\bin\Debug\netcoreapp3.1\Negocio.Paralilismo.pdb
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.csproj.CopyComplete
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.dll
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.pdb
+C:\Users\usuario\source\repos\ParalelismoAlejo\ParalelismoAlejo\obj\Debug\netcoreapp3.1\ParalelismoAlejo.genruntimeconfig.cache

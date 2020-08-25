@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ParalelismoAlejo/1.0.0": {
+        "dependencies": {
+          "Negocio.Paralilismo": "1.0.0"
+        },
+        "runtime": {
+          "ParalelismoAlejo.dll": {}
+        }
+      },
+      "Negocio.Paralilismo/1.0.0": {
+        "runtime": {
+          "Negocio.Paralilismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParalelismoAlejo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Negocio.Paralilismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
